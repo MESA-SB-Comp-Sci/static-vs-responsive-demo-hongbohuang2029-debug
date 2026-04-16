@@ -38,13 +38,33 @@ p {
 
 /* Compleate challenge down here */
 
-.box-yellow-style{
-  border: 5px solid white;
-  margin: 5px;
-  color: black;
-  font-size: 5vw;  
-  height: 25vw;
-  background-color: yellow;
+.box-style{
+  border: 1px solid white;
+  margin: 0px;
+  color: white;
+  width: 24vw;  
+  height: 50vw;
+  display: inline-block;
 }
 
+.yellow{
+  background-color: orange;
+}
 
+.green{
+  background-color: purple;
+}
+
+.blue{
+  background-color: pink;
+}
+
+.red{
+  background-color: black;
+}
+
+.h2{
+  color: white 2rem;
+  padding: 1rem;
+  font-size: 3vw;
+}
